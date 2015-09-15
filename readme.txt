@@ -1,1 +1,1 @@
-My first project 
+A simple Hello World program
